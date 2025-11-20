@@ -1,0 +1,6 @@
+flask
+gunicorn
+
+spacy
+transformers
+torch
